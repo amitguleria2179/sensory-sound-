@@ -1,0 +1,31 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><variables></variables><block type="pxt-on-start" id="f0wYjLf(T4P.O]PhrL$w" x="20" y="20"></block><block type="device_forever" id="[R.RNMC;mYjT[7WGX`,W" x="225" y="20"></block><block type="device_gesture_event" id="3$_F6BROA|ftw:D1pz+:" x="27" y="135"><field name="NAME">Gesture.Shake</field><statement name="HANDLER"><block type="device_show_leds" id="K2i36W;Bp_O|DS@!mLu*"><field name="LEDS">`
+        # . # . # 
+        . # # # . 
+        . . # . . 
+        . # # # . 
+        # . # . #
+        `</field><next><block type="music_playable_play" id="GV,pOju=lIfRCn+rAN?1"><field name="playbackMode">music.PlaybackMode.UntilDone</field><value name="toPlay"><shadow type="soundExpression_builtinPlayableSoundEffect" id="%yT5mUlvqq7BBwy}nQac"><field name="soundExpression">soundExpression.giggle</field></shadow></value></block></next></block></statement></block><block type="device_gesture_event" id="HS?9a?nHiVXw-HMV=J6_" x="343" y="132"><field name="NAME">Gesture.LogoUp</field><statement name="HANDLER"><block type="device_show_leds" id="Fe1Z~zLQE,yR|LT-x{8s"><field name="LEDS">`
+        . . # . . 
+        . # # # . 
+        # . # . # 
+        . . # . . 
+        . . # . .
+        `</field><next><block type="music_playable_play" id="4sZ9ghy8OR~}6+k9.9@7"><field name="playbackMode">music.PlaybackMode.UntilDone</field><value name="toPlay"><shadow type="soundExpression_builtinPlayableSoundEffect" id="lXt7G|;yJ+!duBsVTg-x"><field name="soundExpression">soundExpression.twinkle</field></shadow></value></block></next></block></statement></block><block type="device_gesture_event" id="e%|V2cs!gT%lf^q}[(dk" x="670" y="129"><field name="NAME">Gesture.LogoDown</field><statement name="HANDLER"><block type="device_show_leds" id="ka6g*ME[H7{FFH-I?FiE"><field name="LEDS">`
+        . . # . . 
+        . . # . . 
+        # . # . # 
+        . # # # . 
+        . . # . .
+        `</field><next><block type="music_playable_play" id="}t5YNtT$3~bx4l1xJkc1"><field name="playbackMode">music.PlaybackMode.UntilDone</field><value name="toPlay"><shadow type="soundExpression_builtinPlayableSoundEffect" id=";FxZ[hqM_3WMo#CKgi*J"><field name="soundExpression">soundExpression.spring</field></shadow></value></block></next></block></statement></block><block type="device_gesture_event" id="!hX-)P.ji{|}8ESQC7QO" x="1069" y="167"><field name="NAME">Gesture.TiltLeft</field><statement name="HANDLER"><block type="device_show_leds" id="gnrOrP/eIJyD[]UT[oE|"><field name="LEDS">`
+        . . # . . 
+        . # . . . 
+        # # # # # 
+        . # . . . 
+        . . # . .
+        `</field><next><block type="music_playable_play" id="a{4Kq(Wo-InmG3n,H*=@"><field name="playbackMode">music.PlaybackMode.UntilDone</field><value name="toPlay"><shadow type="soundExpression_builtinPlayableSoundEffect" id="wA2jh{,R8w|eGs_38sRU"><field name="soundExpression">soundExpression.hello</field></shadow></value></block></next></block></statement></block><block type="device_gesture_event" id="3$.k,/W^,`!^NB[*7;pD" x="1418" y="182"><field name="NAME">Gesture.TiltRight</field><statement name="HANDLER"><block type="device_show_leds" id="Ml((R`AU$522D_[Oi-4Q"><field name="LEDS">`
+        . . # . . 
+        . . . # . 
+        # # # # # 
+        . . . # . 
+        . . # . .
+        `</field><next><block type="music_playable_play" id="oM3+;M^+vN3:uO#0mzVO"><field name="playbackMode">music.PlaybackMode.UntilDone</field><value name="toPlay"><shadow type="soundExpression_builtinPlayableSoundEffect" id="}bs!OIabe0$3,K0;Wq2e"><field name="soundExpression">soundExpression.sad</field></shadow></value></block></next></block></statement></block></xml>
